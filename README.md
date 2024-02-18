@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Waseem Khan
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning C Language.
+- 🌱 I’m currently learning MERN Stack.
 - 💞️ I’m looking to collaborate on ...
 - 📫 To contact E-mail me at wkhan5563@gmail.com
 
